@@ -7,9 +7,7 @@
 #### inventory.txt and read the data from this file, then create a
 #### shoes object with this data and append this object into the
 #### shoes list. One line in this file represents data to create one
-#### object of shoes. You must use the try-except in this function
-#### for error handling. Remember to skip the first line using your
-#### code.
+#### object of shoes. 
 
 #### ● capture_shoes - This function will allow a user to capture
 #### data about a shoe and use this data to create a shoe object
@@ -30,10 +28,10 @@
 #### printed.
 
 #### ● value_per_item - This function will calculate the total value
-#### for each item . Please keep the formula for value in mind;
+#### for each item.
 #### value = cost * quantity. Print this information on the console
 #### for all the shoes.
 
-#### ● highest_qty - Write code to determine the product with the
+#### ● highest_qty - Determine the product with the
 #### highest quantity and print this shoe as being for sale.
 
